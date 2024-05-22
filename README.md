@@ -1,27 +1,17 @@
 <h1 align="center">Hi 👋, I'm PATEL DIPEN ALPESHBHAI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipenpatel0017&label=Profile%20views&color=0e75b6&style=flat" alt="dipenpatel0017" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipenpatel0017" alt="dipenpatel0017" /></a> </p>
 
-- 🔭 I’m currently working on [-](-)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **-**
-
 - 📫 How to reach me **dipenpatelalpeshbhai@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [https://edunetfoundationorg-my.sharepoint.com/:b:/r/personal/aalisha_edunetfoundation_org/Documents/MBIT_RESUME/Batch%20A/DIPEN%20PATEL_RESUME.pdf?csf=1&web=1&e=3Sad7i](https://edunetfoundationorg-my.sharepoint.com/:b:/r/personal/aalisha_edunetfoundation_org/Documents/MBIT_RESUME/Batch%20A/DIPEN%20PATEL_RESUME.pdf?csf=1&web=1&e=3Sad7i)
+
+- ⚡ Fun fact **I am funny 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
