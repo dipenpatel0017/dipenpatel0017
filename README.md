@@ -1,5 +1,7 @@
-![dipsh](https://github.com/dipenpatel0017/dipenpatel0017/assets/154975783/93ebf6dc-777f-4a64-8c75-31f561bd5bbd)
 
+<div align="center">
+  <img src="https://github.com/dipenpatel0017/dipenpatel0017/assets/154975783/93ebf6dc-777f-4a64-8c75-31f561bd5bbd" alt="Project Logo" width="1000" height="550"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm DIPEN PATEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
