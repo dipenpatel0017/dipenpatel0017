@@ -1,4 +1,6 @@
-![logo](https://github.com/dipenpatel0017/dipenpatel0017/blob/main/Black%20Full%20Photo%20Technology%20Facebook%20Cover.jpg)
+![dipsh](https://github.com/dipenpatel0017/dipenpatel0017/assets/154975783/93ebf6dc-777f-4a64-8c75-31f561bd5bbd)
+
+
 <h1 align="center">Hi 👋, I'm DIPEN PATEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
