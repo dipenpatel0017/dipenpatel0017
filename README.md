@@ -50,9 +50,9 @@
 ## ✨ Fun Stuff
 
 - 💬 Quote: "Code is like humor. When you have to explain it, it’s bad."
-- 🎵 Music: Coldplay
+- 🎵 Music: Coldplay 
 - 📚 Reading: "Clean Code" by Robert C. Martin
 - 🍿 Watching: "The Office"
 
  ---
-Thanks for visiting! Let's connect and create something amazing! 🚀
+❤️ Thanks for visiting! Let's connect and create something amazing! 🚀
